@@ -13,19 +13,19 @@
   "categories": ["productivity"],
   "icons": [
     {
-      "src": "https://sokercat-dev.github.io/binaural-app/android-chrome-192x192.png",
+      "src": "https://sokercat-dev.github.io/binaural-app/icon_192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "https://sokercat-dev.github.io/binaural-app/android-chrome-512x512.png",
+      "src": "https://sokercat-dev.github.io/binaural-app/icon_512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "https://sokercat-dev.github.io/binaural-app/android-chrome-512x512.png",
+      "src": "https://sokercat-dev.github.io/binaural-app/icon_512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
